@@ -1,16 +1,56 @@
-# kalkulator
+---
+# 🧮 Flutter Calculator
 
-A new Flutter project.
+This is a **simple calculator app** built using **Flutter**. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This project is my **second project using Flutter**, and it helped me understand layouting, state management, and user interaction in Flutter apps.
+---
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Simple and clean user interface
+- Basic calculator operations:
 
-A few resources to get you started if this is your first Flutter project:
+  - ➕ Addition
+  - ➖ Subtraction
+  - ✖️ Multiplication
+  - ➗ Division
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Responsive layout for different screen sizes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Flutter installed on your machine.
+To check, run:
+
+```bash
+flutter --version
+```
+
+### Run the App
+
+```bash
+git clone https://github.com/yourusername/flutter-calculator.git
+cd flutter-calculator
+flutter pub get
+flutter run
+```
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** Flutter (Dart)
+- **Platform:** Android / iOS / Web
+
+---
+
+## 📚 About Me
+
+I’m Ardanu Egitya Ash Shafah, currently a second-semester student at the Electronic Engineering Polytechnic Institute of Surabaya.
+I’m learning **Flutter** to explore mobile app development and this is one of my early hands-on projects.
+
+---
